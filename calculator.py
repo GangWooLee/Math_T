@@ -13,3 +13,6 @@ def divide_free(a, b):
 
 def square(a):
     return a**2
+
+def get_Median(a, b):
+    return (a+b)/2
