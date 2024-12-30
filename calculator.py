@@ -8,11 +8,14 @@ def substract(a, b):
 def multiply(b, c):
     return b*c
 
-def divide_free(a, b):
-    return a/b
+def divide_new(a, b):
+    return a / b
 
 def square(a):
     return a**2
 
 def get_Median(a, b):
     return (a+b)/2
+
+def get_Remainder(a, b):
+    return a//b
