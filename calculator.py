@@ -8,8 +8,8 @@ def substract(a, b):
 def multiply(b, c):
     return b*c
 
-def divide_premium(a, b):
-    return a/b
+def divide_new(a, b):
+    return a / b
 
 def square(a):
     return a**2
