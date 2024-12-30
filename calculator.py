@@ -13,3 +13,6 @@ def divide_free(a, b):
 
 def square(a):
     return a**2
+
+def half(a):
+    return a/2
