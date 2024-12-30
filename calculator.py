@@ -7,3 +7,6 @@ def substract(a, b):
 
 def multiply(b, c):
     return b*c
+
+def divide(a, b):
+    return a/b
