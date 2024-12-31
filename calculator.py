@@ -13,6 +13,7 @@ def divide_new(a, b):
 
 def square(a):
     return a**2
+<<<<<<< HEAD
 
 def get_Median(a, b):
     return (a+b)/2
@@ -25,3 +26,5 @@ def get_ABS(a):
         return -a
     else:
         return a
+=======
+>>>>>>> refs/remotes/origin/premium
